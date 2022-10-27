@@ -1,0 +1,14 @@
+body {
+    height: 3000px;
+    background-color: #f3f4f5;
+}
+
+#home {
+    padding-top: 2rem;
+    background-color: #c684f1;
+}
+
+#projects {
+    padding-top: 2rem;
+    background-color: #c684f1;
+}
